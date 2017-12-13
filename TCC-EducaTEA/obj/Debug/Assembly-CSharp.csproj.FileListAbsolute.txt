@@ -1,0 +1,59 @@
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\UnityEditor.dll
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\UnityEngine.dll
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\UnityEngine.xml
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\UnityEditor.xml
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\obj\Debug\Assembly-CSharp.dll
+C:\Users\WellingtonCaldeira\Desktop\Wellington\TCC\TCC Univas\Vogais\obj\Debug\Assembly-CSharp.pdb
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\obj\Debug\Assembly-CSharp.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\obj\Debug\Assembly-CSharp.pdb
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\nunit.framework.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\UnityEditor.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\UnityEngine.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\UnityEngine.xml
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\UnityEditor.xml
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\nunit.framework.xml
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\WellingtonCaldeira\Desktop\TCC - Editando\Autismo - Copia\Jogos Separados - funcionando\JogoPalavras\Temp\bin\Debug\UnityEngine.HoloLens.xml
